@@ -2,5 +2,5 @@
   "version": "1.0.0",
   "min_app_version": "0.1",
   "release_notes": "Initial online update manifest",
-  "features_url": "https://raw.githubusercontent.com/aiagentrai5-code/MyFirstProject/main/updates/features.json"
+  "features_url": "https://raw.githubusercontent.com/aiagentrai5-code/RAI-Updates/main/features.json"
 }
